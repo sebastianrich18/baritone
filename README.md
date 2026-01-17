@@ -1,4 +1,3 @@
-
 # Baritone
 <p align="center">
   <a href="https://github.com/cabaletta/baritone/releases/"><img src="https://img.shields.io/github/downloads/cabaletta/baritone/total.svg" alt="GitHub All Releases"/></a>
